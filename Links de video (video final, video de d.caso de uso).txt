@@ -2,5 +2,6 @@ Link del video explicando diagrama caso de uso y de arquitectura
 https://www.youtube.com/watch?v=8jQlWu0Iquc
 
 
-Link del video final:
+Link del video explicando el software terminado (video final):
 https://www.youtube.com/watch?v=TOuTBTSslw4
+
